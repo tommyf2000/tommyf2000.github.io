@@ -8,7 +8,7 @@ this is my first asciidoc page
 === Section1a
 sdfnjsdfökjl
 
-image::2023-12-03T20-48-27-552Z.png[] 
+image::2023-12-03T20-48-27-552Z.png[annotation headers in influx,400] 
 
 == Cool?
 
