@@ -1,7 +1,27 @@
 = Hello
+Doc Writer <tommyf2000@web.de>
+:toc: left
 
+== Section1
 this is my first asciidoc page
+
+=== Section1a
+sdfnjsdfö
+image::2023-12-03T20-48-27-552Z.png[] 
 
 == Cool?
 
 Yes
+[cols="1,1"]
+|===
+|Cell in column 1, header row |Cell in column 2, header row 
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+
+|Cell in column 1, row 4
+|Cell in column 2, row 4
+|===
